@@ -2,6 +2,8 @@
 
 All state planes projections for D3
 
+[Live demo](http://bl.ocks.org/gka/f2aabf4a516e16a5190f25fd1923406f)
+
 ```js
 var proj = d3.geo.statePlanes('NY');
 ```
