@@ -14,3 +14,6 @@ By default, the projection will be scaled and translated to fit the state into a
 // center NY into a 500px * 350px viewport
 var proj = d3.geo.statePlane('NY', 500, 350);
 ```
+
+This was hacked together in a few hours, so please feel free to fix projections or correct errors using pull requests.
+
