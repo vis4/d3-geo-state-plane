@@ -1,4 +1,4 @@
-d3.geo.statePlanes = (function() {
+d3.geo.statePlane = (function() {
 
     var prj = {
         merc: 'mercator',
