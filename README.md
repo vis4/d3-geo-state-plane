@@ -17,3 +17,6 @@ var proj = d3.geo.statePlane('NY', 500, 350);
 
 This was hacked together in a few hours, so please feel free to fix projections or correct errors using pull requests.
 
+## Related work
+
+* For more D3 state plane projections, check out Noah Veltman's [d3-stateplane](https://github.com/veltman/d3-stateplane)
